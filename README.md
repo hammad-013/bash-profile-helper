@@ -36,6 +36,10 @@ Run the script with any of the following options:
 ```bash
 ./profile-helper.sh [option]
 ```
+Run this after customizations to apply them:
+```bash
+source ~/.bashrc
+```
 
 ---
 
